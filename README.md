@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Antonio Vuletić (@antonio2212)
-- 🌱 I’m currently learning PHP developer
+- 🌱 I’m currently learning for PHP developer
